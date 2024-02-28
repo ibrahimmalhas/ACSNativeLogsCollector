@@ -2,7 +2,7 @@
 |---|---|---|
 |sample|<table><tr><td>csharp</tr></td></table>|<table><tr><td>azure</td><td>azure-communication-services</td></tr></table>|
 
-# Natice Call Logs Collector
+# Native Call Logs Collector
 
 In this sample, You can collect all the native SDK logs from ACS apps to share it with ACS support team
 
