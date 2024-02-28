@@ -15,8 +15,8 @@ In this sample, You can collect all the native SDK logs from ACS apps to share i
 - Create and host a Azure Dev Tunnel. Instructions [here](https://learn.microsoft.com/en-us/azure/developer/dev-tunnels/get-started)
 - [.NET7 Framework](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) (Make sure to install version that corresponds with your visual studio instance, 32 vs 64 bit)
 - Create `Dev Tunnels`, for more details about [Dev Tunnels.](https://learn.microsoft.com/en-us/aspnet/core/test/dev-tunnels?view=aspnetcore-7.0)  
-	![ViewDevTunnels](devtunnel.png)
-	![CreateDevTunnels](devtunnel_config.png)
+	![ViewDevTunnels](devTunnel.png)
+	![CreateDevTunnels](devTunnel_Config.png)
 
 
 ## Before running the sample for the first time
