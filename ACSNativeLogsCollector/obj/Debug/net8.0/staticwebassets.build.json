@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9zieQuAB9ycXRsKnEbANZ9qX0Z7CrK92lTaPOeZyFMA=",
+  "Source": "ACSNativeLogsCollector",
+  "BasePath": "_content/ACSNativeLogsCollector",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

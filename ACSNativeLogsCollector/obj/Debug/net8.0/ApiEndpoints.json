@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "FileStorageApi.Controllers.FileController",
+    "Method": "UploadFileblog",
+    "RelativePath": "api/File/uploadblog",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FileStorageApi.Controllers.FileController",
+    "Method": "UploadFiledesc",
+    "RelativePath": "api/File/uploaddesc",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
